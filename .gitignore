@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+data/*.parquet
+data/model_*.txt
+reports/*.csv
+reports/figures/*.png
